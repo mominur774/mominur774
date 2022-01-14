@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mominur
 - 👀 I’m interested in Python and Django
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Django Channels 
+- 💞️ I’m looking to collaborate on any kind of Development phase. 
 - 📫 How to reach me ...
 
 <!---
