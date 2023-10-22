@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mominur Rahman<br>🔭 I’m currently working on a <br>👯 I’m looking to collaborate on any kind of Design and Development<br>🤝 I’m looking for help with Django and React.<br>🌱 I’m currently learning Django Channels and Web Socket
+👋 Hi, I’m Mominur Rahman<br>🔭 I’m currently working on an ecommerce site <br>👯 I’m looking to collaborate on any kind of Design and Development<br>🤝 I’m looking for help with Django and React.<br>🌱 I’m currently learning Machine Learning
 
 
 ## 🌐 Socials:
